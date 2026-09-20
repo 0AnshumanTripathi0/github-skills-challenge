@@ -2,6 +2,10 @@
 # PYTHON - https://github.com/github/gitignore/blob/main/Python.gitignore
 ########
 
+.venv/
+.pytest_cache/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
